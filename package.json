@@ -1,0 +1,23 @@
+{
+  "name": "websocket-chat-with-socketio",
+  "version": "0.0.1",
+  "description": "Web Socket Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehalthakkar30/WebSockets-Chat-with-SocketIO.git"
+  },
+  "author": "Snehal Manish Thakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehalthakkar30/WebSockets-Chat-with-SocketIO/issues"
+  },
+  "homepage": "https://github.com/snehalthakkar30/WebSockets-Chat-with-SocketIO#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
